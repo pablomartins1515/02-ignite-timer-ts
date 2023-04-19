@@ -12,6 +12,8 @@
     "-": "^0.0.1",
     "@types/styled-components": "^5.1.26",
     "D": "^1.0.0",
+    "phosphor": "^0.7.1",
+    "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0"
