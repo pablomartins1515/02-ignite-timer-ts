@@ -56,6 +56,10 @@ export const HistoryList = styled.div`
       &:last-child {
         padding-left: 1.5rem;
       }
+
+      & :hover {
+        background-color: ${(props) => props.theme['gray-700']};
+      }
     }
   }
 `
